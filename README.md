@@ -1,10 +1,10 @@
-## Hi Martinii 👋
+## HI
 
 <div align="center">
   <!-- Substitua o link da imagem abaixo pelo link direto da sua foto (ex: foto do LinkedIn ou GitHub) -->
   <img src="URL_DA_SUA_FOTO_AQUI" width="160px" style="border-radius: 50%;" alt="Sua Foto" />
   
-  # Olá, eu sou o [Seu Nome]! 👋
+  # Olá, Me chamo Felipe Martini! 👋
   
   ### 🚀 Estudante de Análise e Desenvolvimento de Sistemas | Em transição para a Tecnologia
 </div>
