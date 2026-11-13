@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Substitua o link da imagem abaixo pelo link direto da sua foto (ex: foto do LinkedIn ou GitHub) -->
-  <img src="URL_DA_SUA_FOTO_AQUI" width="160px" style="border-radius: 50%;" alt="Sua Foto" />
+  <img src="https://github.com/Martinii92/Martiniie/issues/1#issue-6372269723" width="160px" style="border-radius: 50%;" alt="Sua Foto" />
   
   # Olá, Me chamo Felipe Martini! 👋
   
