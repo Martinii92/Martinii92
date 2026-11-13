@@ -1,4 +1,4 @@
-## HI
+## 
 
 <div align="center">
   <!-- Substitua o link da imagem abaixo pelo link direto da sua foto (ex: foto do LinkedIn ou GitHub) -->
